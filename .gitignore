@@ -1,0 +1,7 @@
+/model_modules
+node_modules
+.env
+.vscode
+
+/Public/scss
+/Public/vendor
