@@ -13,7 +13,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Project Link](#project-link)
-- [Refrence](#Refrence)
+- [Reference](#Reference)
 
 ## About
 
@@ -69,7 +69,7 @@ Before you begin working with the E-Engineering Admin Panel, ensure that you hav
    npm start
    ```
 
-# Refrence
+# Reference
 
 - [BootStrap](https://getbootstrap.com/): A utility-first CSS framework used for styling the application.
 - [Google Fonts - Roboto](https://fonts.google.com/specimen/Roboto): The Roboto font family used for text elements.
